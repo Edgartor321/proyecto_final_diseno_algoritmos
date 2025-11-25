@@ -1,0 +1,16 @@
+Se hece la prueba con la palabra hlooljholj, arrojando que la latra j es una s en nuestro alfabeto
+hacemos la prueba con oljjlzhio y arroja cuatro palabras que coinciden con el diccionario, actualizamos posO=nrt; posH="eti"; posZ="tsnm"; poaL="ae"
+Se prueba con la palabra ghidijllj no encuentra palabras en el diccionario
+Se prueba con nqjhbcibdlj, cumplen 43, no procede
+Probando con aljjgj cumplen 8, se atualiza posA="cdmp"; posG="eiu"
+probando con jguloilgol: se arrojan dos resultados, se actualiza posG="ou"; ;
+probando con nqjhbcibdlj: se arroja un resultado, se actualiza
+Me doy cuenta que la letra k es la más usada, lo que me indica que es la e por datos del histograma
+Se agregan más palabras al diccionario
+Probando con lubijjlj: se obtiene la palabra "epaisses", se actualizan poaL="e"; posU="p"; posH="et"; posI="i"
+Probando con nmgjhbcwlj: posM="larxou" posG="u" posN="mp"; posH="t", la palabra es moustaches
+12/26 letras
+probando con xisoijjlj: no está en el diccionario
+probando con buuldllj: 2 resultados
+
+
