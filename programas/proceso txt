@@ -11,6 +11,110 @@ Probando con lubijjlj: se obtiene la palabra "epaisses", se actualizan poaL="e";
 Probando con nmgjhbcwlj: posM="larxou" posG="u" posN="mp"; posH="t", la palabra es moustaches
 12/26 letras
 probando con xisoijjlj: no está en el diccionario
-probando con buuldllj: 2 resultados
+probando con buuldllj: 2 resultados, se actualizan nada
+probando con cboulddl: no resultados
+probando con zmnsolgjlj: 3 resultados, se actualiza posZ="n"; posN="m" palabra "nombreuses",
+probando con lkbdlnlzh: se actualiza posK="g"; posD="lr" posA="d" posD="l"
+Probando con jgulocidibiolj: nada
+Probando con nbij: mais
+Probando con cboulddl: nada
+Probando con pldizj: pelion, está mal
+
+pruebo con las letras que faltan, son 9 en tota, pero el frances no ocupa la k, w
+probando con zle: lmsz, pero lms ya estan en otras letras, por lo tanto es l
+probando con uoljfgl: nada
+probando con fgbza: arroja 3 resultados posF="pq" la p ya está asignada, por lo tanto es q
+Para encontrar p, vamos a usar la unica palabra con p
+probando con pldizj: no hay resultados, sigue incognita
+Para encontrar q solo hay dos formas:
+probando con nqjhbcibdlj: no resultante
+probando con qlgy: pendiente
+Para encontrar v:
+Probando con nbvlgol: arroja hasta tres letras de coincidencia j,t, la t ya esta asignada, temporalmente se toma la j
+posV="j"
+Para encontrar x:
+Probando con xisobhimzj: nada
+Probando con xijgld: arroja esto con solo dos letras de coincidencia: bcdlorv, desocupadas: v, vamos a tomar esa de manera temporal
+posX="v"
+Probando con xisoijjlj:nada
+Probando con xloj: _ers, cumplen tres (fmv), m está descartada quedando fv
+posX="fv"
+Probando con xijbkl: visage, posX="v"
+Para encontrar y:
+probando con bgy: aux, posY="x"
+
+
+
+
+
+
+posB="a"
+posS="b"
+posC="c"
+posA="d"
+posL="e" #letra más común, posible "e" CONFIRMADA
+posP="f" #revisar paso
+posK="g"
+posW="h"
+posI="i"
+posV="j"
+posR="k"
+posD="l" #o=r entonces
+posN="m"
+posZ="n"
+posM="o"
+posU="p"
+posF="q"
+posO="r"
+posJ="s"
+posH="t"
+posG="u" #uni - ou
+posX="v"
+posT="w"
+posY="x"
+posQ="y"   #revisar paso
+posE="z"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
